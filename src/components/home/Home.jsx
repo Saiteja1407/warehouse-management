@@ -9,8 +9,8 @@ const Home = () => {
     <>
       <Hero />
       <ProcessCard />
-      <CityLocation />
-      <Testimonal />
+      
+      
     </>
   )
 }
