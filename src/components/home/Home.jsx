@@ -10,7 +10,7 @@ const Home = () => {
       <Hero />
       <ProcessCard />
       
-      <Testimonal />
+      
     </>
   )
 }
